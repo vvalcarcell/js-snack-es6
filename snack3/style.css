@@ -7,7 +7,7 @@ padding: 0;
 ul {
 list-style: none;
 display: flex;
-width: 70%;
+width: 900px;
 }
 
 ul:first-child{
@@ -17,7 +17,7 @@ background-color: #eee;
 
 li {
 border: 1px solid #ccc;
-flex-basis: calc(100% /3);
+flex-basis: 300px;
 padding: 5px;
 }
 
